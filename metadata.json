@@ -1,0 +1,6 @@
+{
+  "name": "FarmLink by Emperor",
+  "description": "B2B agricultural distribution platform for Nigeria connecting farmers, aggregators, transporters, and buyers to move perishable produce faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
